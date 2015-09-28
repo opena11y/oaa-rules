@@ -9,12 +9,12 @@ Select other labels as appropriate, e.g., 'bug' or 'question'
 
 Copy and paste the following lines into the issue editor:
 
-=== BEGIN COPY ===
+=== BEGIN COPY ===<br>
 Rule:<br>
 Desc:<br>
 Tool:<br>
 Evaluation Library Version:<br>
-URL:
+URL:<br>
 === END COPY ===
 
 ### Information for each field:
