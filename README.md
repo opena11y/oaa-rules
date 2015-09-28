@@ -9,11 +9,15 @@ Select other labels as appropriate, e.g., 'bug' or 'question'
 
 Copy and paste the following lines into the issue editor:
 
+=== BEGIN COPY ===
 Rule:<br>
 Desc:<br>
 Tool:<br>
 Evaluation Library Version:<br>
 URL:
+=== END COPY ===
+
+### Information for each field:
 
 Rule: enter the rule summary (e.g., Images must have alt text)
 
